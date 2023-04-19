@@ -1,7 +1,6 @@
 import streamlit as st
-from tkinter import *
-import login
-from login import *
+import user
+from user import login
  
 headerSection = st.container()
 mainSection = st.container()
